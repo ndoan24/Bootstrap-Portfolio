@@ -27,4 +27,4 @@ Software developmenet, software engineer, Front End, Backend, Full Stack Develop
 
 See it here: 
 
-[Finala Capstone Portfoliio ](https://ndoan24.github.io/Boostrap-Portfolio-/)
+[Finala Capstone Portfoliio ](https://ndoan24.github.io/Bootstrap-Portfolio/)
