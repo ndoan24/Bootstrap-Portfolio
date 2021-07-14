@@ -113,3 +113,9 @@ nav.sticky .menu-btn{
 .navbar .menu .menu-btn{
   color:var(--white-color);
 }
+
+
+.textwrap {
+  float:right;
+
+}
